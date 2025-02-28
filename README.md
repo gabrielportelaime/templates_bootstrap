@@ -1,2 +1,2 @@
-# templates_bootstrap
-Alguns templates usados de bootstrap
+# Templates prontos 
+Alguns templates prontos - Bootstrap.
